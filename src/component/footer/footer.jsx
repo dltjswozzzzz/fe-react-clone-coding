@@ -5,6 +5,7 @@ const FooterBox = styled.div`
   display: flex;
   flex-wrap: wrap;
   width: 100%;
+  margin-left: 150px;
 `;
 
 const Footer = ({ children }) => {
