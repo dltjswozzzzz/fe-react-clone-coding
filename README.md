@@ -1,6 +1,11 @@
 # 구현 화면
 
 <img src="1.png">
+<img src="2.png">
+<img src="3.png">
+<img src="4.png">
+
+## 계층 구조
 
 # 멋쟁이 사자처럼 11기 클론코딩 과제 🦁
 
