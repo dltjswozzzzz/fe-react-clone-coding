@@ -1,5 +1,7 @@
 # 구현 화면
 
+<img src="1.png">
+
 # 멋쟁이 사자처럼 11기 클론코딩 과제 🦁
 
 이번 시간에는 그동안 배운 styled component와 React hook(useState, useEffect)을 사용하여 직접 클론코딩을 진행해볼 겁니다.<br/>
