@@ -81,7 +81,7 @@ const TopNoneBlockHamberger = styled.div`
 //   color: white;
 // `;
 
-const Top = () => {
+const Top = (props) => {
   const [isDisplayed, setIsDisplayed] = useState(false);
 
   function handleClick() {
@@ -119,7 +119,7 @@ const Top = () => {
         <TopNoneBlock>
           <TopNoneBlockAlbum href="https://getbootstrap.com/docs/4.3/examples/album/#">
             <AiOutlineCamera size="25px"></AiOutlineCamera>
-            Album
+            {props.album}
           </TopNoneBlockAlbum>
           <TopNoneBlockHamberger>
             <FiMenu onClick={handleClick}></FiMenu>
